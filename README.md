@@ -1,7 +1,7 @@
 [![License](http://img.shields.io/badge/Licence-MIT-brightgreen.svg)](LICENSE)
 
 # What's this?
-A Linq-lick library for lua
+A Linq-like library for lua
 
 # How to use
 

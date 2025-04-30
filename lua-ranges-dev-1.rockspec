@@ -4,7 +4,7 @@ source = {
    url = "git+https://github.com/TOWHGOS/lua-ranges"
 }
 description = {
-   summary = "A Linq-lick lib",
+   summary = "A Linq-like lib",
    homepage = "https://github.com/TOWHGOS/lua-ranges",
    license = "MIT"
 }
